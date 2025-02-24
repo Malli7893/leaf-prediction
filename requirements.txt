@@ -1,0 +1,11 @@
+tensorflow
+keras
+opencv_python_headless
+gdown
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
